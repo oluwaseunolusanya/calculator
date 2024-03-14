@@ -45,7 +45,7 @@ class Layout extends Component {
 
             <input type='button' value={'0'} className='button' onClick={this.handleClick}></input>
             <input type='button' value={'.'} className='button' onClick={this.handleClick}></input>
-            <input type='button' value={'='} className='button operator' onClick={this.handleClick}></input>
+            <input type='button' value={'='} className='button equal-sign' onClick={this.handleClick}></input>
           </div>
 
         </div>
